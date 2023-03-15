@@ -1,0 +1,4 @@
+FileName,decodeStatus,row,BCLocation,BCType,BCTEXT
+read_ไทย.tif,1,1,1400;1868,QRCODE,b'https://www.saintlouis.or.th/th/Privacy-Policy'
+read_ไทย.tif,1,2,1597;120,CODE39,b'58-022-3-P'
+read_ไทย.tif,1,3,1166;80,CODE39,b'58-02273-P'

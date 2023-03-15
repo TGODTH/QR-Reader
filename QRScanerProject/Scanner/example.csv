@@ -1,0 +1,7 @@
+CountBarcode:2
+BCLocation_1:x,y
+BCType_1:CODE39
+BCText_1:dffdfds dfds
+BCLocation_2:x,y
+BCType_2:QRCODE
+BCText_2:dffdfds dfds
